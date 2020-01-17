@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\allec\\Downloads\\15.01.2020\\15012020_design_patterns\\15012020_design_patterns.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\allec\\Downloads\\15.01.2020\\15012020_design_patterns\\15012020_design_patterns.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\allec\\Downloads\\15.01.2020\\15012020_design_patterns\\15012020_design_patterns.csproj",
+        "projectName": "15012020_design_patterns",
+        "projectPath": "C:\\Users\\allec\\Downloads\\15.01.2020\\15012020_design_patterns\\15012020_design_patterns.csproj",
+        "packagesPath": "C:\\Users\\allec\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\allec\\Downloads\\15.01.2020\\15012020_design_patterns\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\allec\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

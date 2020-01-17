@@ -1,0 +1,11 @@
+C:\Users\NickB\source\repos\15012020_design_patterns\bin\Debug\netcoreapp3.1\15012020_design_patterns.exe
+C:\Users\NickB\source\repos\15012020_design_patterns\bin\Debug\netcoreapp3.1\15012020_design_patterns.deps.json
+C:\Users\NickB\source\repos\15012020_design_patterns\bin\Debug\netcoreapp3.1\15012020_design_patterns.runtimeconfig.json
+C:\Users\NickB\source\repos\15012020_design_patterns\bin\Debug\netcoreapp3.1\15012020_design_patterns.runtimeconfig.dev.json
+C:\Users\NickB\source\repos\15012020_design_patterns\bin\Debug\netcoreapp3.1\15012020_design_patterns.dll
+C:\Users\NickB\source\repos\15012020_design_patterns\bin\Debug\netcoreapp3.1\15012020_design_patterns.pdb
+C:\Users\NickB\source\repos\15012020_design_patterns\obj\Debug\netcoreapp3.1\15012020_design_patterns.csprojAssemblyReference.cache
+C:\Users\NickB\source\repos\15012020_design_patterns\obj\Debug\netcoreapp3.1\15012020_design_patterns.AssemblyInfoInputs.cache
+C:\Users\NickB\source\repos\15012020_design_patterns\obj\Debug\netcoreapp3.1\15012020_design_patterns.AssemblyInfo.cs
+C:\Users\NickB\source\repos\15012020_design_patterns\obj\Debug\netcoreapp3.1\15012020_design_patterns.dll
+C:\Users\NickB\source\repos\15012020_design_patterns\obj\Debug\netcoreapp3.1\15012020_design_patterns.pdb
